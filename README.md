@@ -6,10 +6,10 @@ We highly recommend using Google Colab for this tutorial. Colab is a free, fully
 
 You'll find a few resources in here for your use:
 
-GWCintroAIML.ipynb
+GWC_introtoNNs.ipynb
 This is the anotated, fully complete document. It includes the example we go over in the workshop, complete with LOTS of notes and extension ideas.
 
-BlankFollowAlong.ipynb
+Blank_GWC_introtoNNs.ipynb
 This is a blank template that you can use to follow along with the workshop!
 
 Open in Colab
